@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <title>{{ page.title | default: site.title | escape }}{% unless page.url == '/' or page.url == '/index.html' %} - {{ site.title | escape }}{% endunless %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
+    <link rel="preconnect" href="https://bucket.uicp.cn">
+    <link rel="preconnect" href="https://s4.zstatic.net">
+    <link rel="preconnect" href="https://fonts.googleapis.cn">
+    <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.cn/css2?family=Klee+One:wght@600&family=Noto+Serif+SC:wght@200..900&display=swap">
+    <link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="icon" type="image/png" href="https://bucket.uicp.cn/files/v5/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="https://bucket.uicp.cn/files/v5/favicon.svg" />
+    <link rel="shortcut icon" href="https://bucket.uicp.cn/files/v5/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://bucket.uicp.cn/files/v5/apple-touch-icon.png" />
+    <link rel="manifest" href="https://bucket.uicp.cn/files/v5/site.webmanifest" />
+    <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
+    <link rel="manifest" href="https://bucket.uicp.cn/files/v5/site.webmanifest" />
+    {% feed_meta %}
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="{{ '/' | relative_url }}">
+                    <span class="fa-stack">
+                        <i class="fa-solid fa-cube fa-stack-1x fa-flip-horizontal nav-brand-logo"></i>
+                        <i class="fa-solid fa-cube fa-stack-1x nav-brand-logo2"></i>
+                    </span>
+                     {{ site.title }}
+                </a>
+            </div>
+            <div class="nav-menu">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/about' | relative_url }}">About</a>
+                <a href="{{ '/archive' | relative_url }}">Archive</a>
+                <a href="{{ '/friend' | relative_url }}">Friend</a>
+                <a href="javascript:switchNightMode()" class="menu-link at-night" target="_self" title="切换夜间模式">
+                    <i class="fa-solid fa-circle-half-stroke"></i>
+                </a>
+            </div>
+        </div>
+    </nav>
+    <!-- Main Content -->
+    <main class="main-content">
+        {{ content }}
+    </main>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>{{ site.title }}</h4>
+                    <p>{{ site.description }}</p>
+                    <h4>We-Media</h4>
+                    <p>
+                        <a href="/weixin.html" target="_blank">
+                            <i class="fa-brands fa-weixin"></i>
+                        </a>  
+                        <a href="https://v.douyin.com/EpXlU2Hg49A/" target="_blank">
+                            <i class="fa-brands fa-tiktok"></i>
+                        </a>  
+                        <a href="/sp.html" target="_blank">
+                            <i class="fa-brands fa-meta fa-flip-vertical"></i>
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                        <li><a href="{{ '/archive' | relative_url }}">Archive</a></li>
+                        <li><a href="{{ '/friend' | relative_url }}">Friend</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        {% if site.theme_settings.social.contact %}
+                            <a href="https://github.com/{{ site.theme_settings.social.github }}/{{ site.theme_settings.social.contact }}" title="GitHub Issues" target="_blank">
+                                <i class="fa-brands fa-kakao-talk"></i> Issues
+                            </a>
+                        {% endif %}
+                        {% if site.theme_settings.social.telegram %}
+                            <a href="https://t.me/{{ site.theme_settings.social.telegram }}" title="Telegram" target="_blank">
+                                <i class="fa-brands fa-telegram"></i> Telegram
+                            </a>
+                        {% endif %}
+                            <a href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)">
+                                <i class="fa-solid fa-envelope"></i> de<span style="display:none">@</span>ar@cc<span style="display:none">@</span>.cc
+                            </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; {{ 'now' | date: '%Y' }}  <a href="{{ '/' | relative_url }}"><i class="fa-solid fa-cube"></i>&nbsp;{{ site.title }}</a>. All rights reserved.<a href="{{ '/feed.xml' | relative_url }}" title="RSS"><i class="fa-solid fa-square-rss"></i></a></p>
+            </div>
+        </div>
+    </footer>
+    <!-- Scripts -->
+    <script src="{{ '/assets/main.js' | relative_url }}"></script>
+</body>
+</html>

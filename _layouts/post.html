@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<article class="post">
+    <!-- Post Header -->
+    <header class="post-header">
+        <div class="container">
+            {% if page.featured_image %}
+            <div class="post-featured-image">
+                <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
+            </div>
+            {% endif %}
+            <div class="post-meta">
+                <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
+                {% if page.category %}
+                <span class="post-category">{{ page.category }}</span>
+                {% endif %}
+                {% if page.author %}
+                <span class="post-author">By {{ page.author }}</span>
+                {% endif %}
+            </div>
+            <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <p class="post-subtitle">{{ page.subtitle }}</p>
+            {% endif %}
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <div class="post-content">
+        <div class="container">
+            <div class="post-body">
+                {{ content }}
+				<p>&nbsp;</p>
+                <div class="share">
+                    <i class="fa-solid fa-square-share-nodes"></i>分享至： 
+                    <i class="fa-brands fa-weixin share-btn" id="shareBtn"></i> 
+                    <a href="https://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Flonely.travel%2F{{ page.url }}&title={{ page.title }}&pics={{ page.featured_image | relative_url }}" target="_blank"><i class="fa-brands fa-qq"></i></a>
+                    <a href="https://service.weibo.com/share/share.php?title={{ page.title }}&url=https%3A%2F%2Flonely.travel%2F{{ page.url }}&pic={{ page.featured_image | relative_url }}&desc=" target="_blank"><i class="fa-brands fa-weibo"></i></a>
+                </div>
+				<p>
+					<cite>若您是文中未署名图片的作者，或认为权益受损，请邮件告知：<a href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)">de<span style="display:none">@</span>ar@cc<span style="display:none">@</span>.cc</a>，我将及时处理。</cite>
+				</p>
+            </div>
+        </div>
+    </div>
+    <!-- Post Navigation -->
+    <nav class="post-navigation">
+        <div class="container">
+            {% if page.previous.url %}
+            <div class="nav-previous">
+                <a href="{{ page.previous.url | relative_url }}">
+                    <span class="nav-label">Previous</span>
+                    <span class="nav-title">{{ page.previous.title }}</span>
+                </a>
+            </div>
+            {% endif %}
+            {% if page.next.url %}
+            <div class="nav-next">
+                <a href="{{ page.next.url | relative_url }}">
+                    <span class="nav-label">Next</span>
+                    <span class="nav-title">{{ page.next.title }}</span>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </nav>
+</article>
+ <!-- PC 端二维码弹窗 -->
+  <div id="qrModal" class="modal-overlay">
+    <div class="modal">
+      <h2>扫码分享到微信</h2>
+      <p>用手机打开微信，扫一扫下方二维码即可分享本页面。</p>
+      <img id="qrImage" src="" alt="分享二维码" />
+      <div>
+        <button class="close-btn" id="closeQrBtn">关闭</button>
+      </div>
+    </div>
+  </div>
+  <link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://s4.zstatic.net/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://s4.zstatic.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script>document.addEventListener("DOMContentLoaded",function(){const container=document.querySelector(".post-body");if(!container)return;const images=container.querySelectorAll("img");images.forEach(function(img){let link=img.closest("a");if(link){link.setAttribute("data-fancybox","gallery");if(!link.href||!link.href.match(/\.(png|jpe?g|gif|webp|avif)(\?.*)?$/i)){link.href=img.src}if(link.target==="_blank"){link.removeAttribute("target")}}else{link=document.createElement("a");link.href=img.src;link.setAttribute("data-fancybox","gallery");img.parentNode.insertBefore(link,img);link.appendChild(img)}});$('[data-fancybox="gallery"]').fancybox({thumbs:{autoStart:true},buttons:["zoom","slideShow","fullScreen","thumbs","close"]})});</script>
+  <script>function isMobile(){return/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)}function isWeChat(){return/MicroMessenger/i.test(navigator.userAgent)}function showQrModal(){var qrModal=document.getElementById("qrModal");var qrImage=document.getElementById("qrImage");var url=encodeURIComponent(window.location.href);var qrUrl="https://minico.qq.com/qrcode/get?type=2&r=1&size=220x220&text="+url;qrImage.src=qrUrl;qrModal.classList.add("show")}function hideQrModal(){var qrModal=document.getElementById("qrModal");qrModal.classList.remove("show")}async function mobileShare(){var shareData={title:document.title||"分享页面",text:"我发现了一个不错的页面，分享给你看看：",url:window.location.href,};if(navigator.share){try{await navigator.share(shareData);return}catch(err){if(err&&err.name!=="AbortError"){console.error("分享失败：",err)}}}if(isWeChat()){alert("检测到当前在微信内置浏览器中。\n\n"+"你可以使用右上角「…」 → 分享给朋友 / 发送到朋友圈。");return}try{if(navigator.clipboard&&navigator.clipboard.writeText){await navigator.clipboard.writeText(window.location.href);alert("已将链接复制到剪贴板。\n\n请打开要分享的APP，粘贴链接发送，"+"或者在朋友圈发布内容时粘贴链接。")}else{var ok=window.prompt("当前浏览器不支持系统分享接口。\n\n请手动复制下面的链接\n\n并在要分享的APP中粘贴发送：",window.location.href)}}catch(e){console.error("复制链接失败：",e);alert("当前环境无法自动复制链接。\n\n请手动选中地址栏中的链接并复制，\n\n然后在要分享的APP中粘贴发送。")}}document.addEventListener("DOMContentLoaded",function(){var shareBtn=document.getElementById("shareBtn");var closeQrBtn=document.getElementById("closeQrBtn");var qrModal=document.getElementById("qrModal");shareBtn.addEventListener("click",function(){if(isMobile()){mobileShare()}else{showQrModal()}});closeQrBtn.addEventListener("click",hideQrModal);qrModal.addEventListener("click",function(e){if(e.target===qrModal){hideQrModal()}})});</script>

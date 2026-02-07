@@ -1,0 +1,77 @@
+# Site settings
+title: "孤旅記"
+description: "一个人的漫长旅行"
+baseurl: ""
+url: "https://lonely.travel"
+author: "文刀刘"
+email: "dear@cc.cc"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title.html
+
+# Pagination
+paginate: 6
+paginate_path: "/page/:num/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title.html
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+  - api
+
+# Theme settings
+theme_settings:
+  # Color scheme
+  primary_color: "#fc0"
+  text_color: "#333"
+  background_color: "#fff"
+  
+  # Typography
+  heading_font: "Noto Serif SC,serif"
+  body_font: "-apple-system,BlinkMacSystemFont,'Segoe UI (Custom)',Roboto,'Helvetica Neue','Open Sans (Custom)',system-ui,sans-serif,'Apple Color Emoji','Segoe UI Emoji'"
+  
+  # Hero section
+  hero_title: "探索·旅行·新知"
+  hero_subtitle: "一个人的遥远旅行"
+  hero_image: "https://api.timelessq.com/bing"
+  
+  # Social links
+  social:
+    github: "bearfm"
+    contact: "blog/discussions"
+    telegram: "fm876"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"
