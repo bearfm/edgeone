@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Lonely.Travel：一个人的漫长旅行"
+title: "走荡：走出方寸 当入山海"
 ---
 
 <!-- This file can be used to override the default home page content -->
