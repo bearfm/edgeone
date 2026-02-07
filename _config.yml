@@ -1,10 +1,10 @@
 # Site settings
-title: "孤旅記"
-description: "一个人的漫长旅行"
+title: "走荡"
+description: "走出方寸，荡入山河"
 baseurl: ""
-url: "https://lonely.travel"
+url: "https://zoudang.com"
 author: "文刀刘"
-email: "dear@cc.cc"
+email: "zoudang@foxmail.com"
 
 # Build settings
 markdown: kramdown
@@ -54,7 +54,7 @@ theme_settings:
   
   # Hero section
   hero_title: "探索·旅行·新知"
-  hero_subtitle: "一个人的遥远旅行"
+  hero_subtitle: "走出方寸 荡入山海"
   hero_image: "https://api.timelessq.com/bing"
   
   # Social links
