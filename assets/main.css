@@ -1,5 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--primary-color:#fc0;--text-color:#333;--bg-color:#fff;--dark-bg:#252627;--dark-text:#f5f5f5;--gary-color:#666;--oyster-color:#9a9a9a}
+@font-face{font-family:LogoSC;font-display:swap;src:url(https://china.s3.bitiful.net/fonts/LogoSC.woff2) format('woff2')}
 html{scroll-behavior:smooth}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI (Custom)',Roboto,'Helvetica Neue','Open Sans (Custom)',system-ui,sans-serif,'Apple Color Emoji','Segoe UI Emoji';line-height:1.6;color:var(--text-color);background-color:var(--bg-color)}
 /* 布局组件 */
@@ -17,7 +18,7 @@ a:hover{color:#e6b800}
 /* 导航栏 */
 .navbar{position:fixed;top:0;left:0;right:0;background-color:rgba(255,255,255,.95);backdrop-filter:blur(10px);border-bottom:3px solid var(--primary-color);z-index:1000;padding:.9rem 0}
 .navbar .container{display:flex;justify-content:space-between;align-items:center}
-.nav-brand a{display:inline-block;font-family:"Dela Gothic One",sans-serif;font-size:1.8rem;font-weight:400;font-style:normal;color:var(--text-color);overflow:hidden;white-space:nowrap;position:relative;vertical-align: middle}
+.nav-brand a{display:inline-block;font-family:"LogoSC","Dela Gothic One",sans-serif;font-size:1.8rem;font-weight:400;font-style:normal;color:var(--text-color);overflow:hidden;white-space:nowrap;position:relative;vertical-align: middle}
 .nav-brand-logo{color:var(--primary-color)}
 .nav-menu{display:flex;gap:2rem}
 .nav-menu a{color:var(--text-color);font-weight:600;transition:color .3s ease}
