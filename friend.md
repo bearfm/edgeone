@@ -17,18 +17,18 @@ permalink: /friend/
 
 ### ⬇️以下是我的好朋友们⬇️
 
-* ![非理勿试](https://gravatar.loli.net/avatar/f8a24e0c241bbc8a305930448f727397)  [非理勿试](https://www.ntiy.com/?from=lonely.travel "非理勿试"){:target="_blank"}
-* ![漫漫长路](https://gravatar.loli.net/avatar/266f4e43085a64e60fa241d350037a05)  [漫漫长路](https://6.mr/?from=lonely.travel "漫漫长路"){:target="_blank"}
-* ![印记](https://gravatar.loli.net/avatar/e0c9b701821e8219b15b261a7edd48859c86406a50563758d7e16440d1581c27)  [印记](https://yinji.org/?from=lonely.travel "印记"){:target="_blank"}
-* ![老刘博客](https://gravatar.loli.net/avatar/4b0d33a08ac73dc07a5293f14232ca53)  [老刘博客](https://iliu.org/?from=lonely.travel "老刘博客"){:target="_blank"}
-* ![1900](https://gravatar.loli.net/avatar/cc38267b10cc25dfc62209f8ca34589e)  [1900](https://1900.live/?from=lonely.travel "1900"){:target="_blank"}
-* ![踏雪寻熊](https://gravatar.loli.net/avatar/18bc5644bf77f31185d9c765d2cf7e7ad6be78081f43231ab979a346f18c3497)  [踏雪寻熊](https://bear1983.com/?from=lonely.travel "踏雪寻熊"){:target="_blank"}
-* ![好事发生](https://avatars.githubusercontent.com/u/82444480?u=eb06b2db875f341a09496b06a61ae1be40a4779d)  [好事发生](https://hanyu.me/?from=lonely.travel "好事发生"){:target="_blank"}
-* ![老何](https://gravatar.loli.net/avatar/d07ff632a5fa1256a69d92e1f9e38ce8)  [老何](https://www.mrhe.net/?from=lonely.travel "老何"){:target="_blank"}
-* ![木竹](https://www.laomuzhu.cn/img/touxiang.jpg)  [木竹](https://www.laomuzhu.cn/?from=lonely.travel "木竹"){:target="_blank"}
-* ![三无青年](https://weavatar.com/avatar/fc78701854db6816dabdf5d6bcb00da9f5b3148b9b4e258d1276b1b10cdaccd1)  [三无青年](https://www.duanxiansen.com/?from=lonely.travel "三无青年"){:target="_blank"}
-* ![昭君网志](https://gravatar.loli.net/avatar/0fee2bab596e4b95096fbf14ddf6f238)  [昭君网志](https://www.luzhaojun.com/?from=lonely.travel "昭君网志"){:target="_blank"}
-* ![MoraEX](https://gravatar.loli.net/avatar/0fee2bab596e4b95096fbf14ddf6f238)  [MoraEX](https://www.moraex.com/?from=lonely.travel "MoraEX"){:target="_blank"}
+* ![非理勿试](https://gravatar.loli.net/avatar/f8a24e0c241bbc8a305930448f727397)  [非理勿试](https://www.ntiy.com/?from=zoudang.com "非理勿试"){:target="_blank"}
+* ![漫漫长路](https://gravatar.loli.net/avatar/266f4e43085a64e60fa241d350037a05)  [漫漫长路](https://6.mr/?from=zoudang.com "漫漫长路"){:target="_blank"}
+* ![印记](https://gravatar.loli.net/avatar/e0c9b701821e8219b15b261a7edd48859c86406a50563758d7e16440d1581c27)  [印记](https://yinji.org/?from=zoudang.com "印记"){:target="_blank"}
+* ![老刘博客](https://gravatar.loli.net/avatar/4b0d33a08ac73dc07a5293f14232ca53)  [老刘博客](https://iliu.org/?from=zoudang.com "老刘博客"){:target="_blank"}
+* ![1900](https://gravatar.loli.net/avatar/cc38267b10cc25dfc62209f8ca34589e)  [1900](https://1900.live/?from=zoudang.com "1900"){:target="_blank"}
+* ![踏雪寻熊](https://gravatar.loli.net/avatar/18bc5644bf77f31185d9c765d2cf7e7ad6be78081f43231ab979a346f18c3497)  [踏雪寻熊](https://bear1983.com/?from=zoudang.com "踏雪寻熊"){:target="_blank"}
+* ![好事发生](https://avatars.githubusercontent.com/u/82444480?u=eb06b2db875f341a09496b06a61ae1be40a4779d)  [好事发生](https://hanyu.me/?from=zoudang.com "好事发生"){:target="_blank"}
+* ![老何](https://gravatar.loli.net/avatar/d07ff632a5fa1256a69d92e1f9e38ce8)  [老何](https://www.mrhe.net/?from=zoudang.com "老何"){:target="_blank"}
+* ![木竹](https://www.laomuzhu.cn/img/touxiang.jpg)  [木竹](https://www.laomuzhu.cn/?from=zoudang.com "木竹"){:target="_blank"}
+* ![三无青年](https://weavatar.com/avatar/fc78701854db6816dabdf5d6bcb00da9f5b3148b9b4e258d1276b1b10cdaccd1)  [三无青年](https://www.duanxiansen.com/?from=zoudang.com "三无青年"){:target="_blank"}
+* ![昭君网志](https://gravatar.loli.net/avatar/0fee2bab596e4b95096fbf14ddf6f238)  [昭君网志](https://www.luzhaojun.com/?from=zoudang.com "昭君网志"){:target="_blank"}
+* ![MoraEX](https://gravatar.loli.net/avatar/0fee2bab596e4b95096fbf14ddf6f238)  [MoraEX](https://www.moraex.com/?from=zoudang.com "MoraEX"){:target="_blank"}
 
 
 
