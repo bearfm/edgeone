@@ -86,7 +86,7 @@ a:hover{color:#e6b800}
 .post-body cite{font-size:.7rem;font-style:italic}
 /* Page页面特殊样式 */
 .page-body blockquote{font-family:'Noto Serif SC',serif;font-weight:600;position:relative;margin:1.5rem 0;border-top:1px solid var(--primary-color);border-bottom:1px solid var(--primary-color);text-align:center}
-.page-body blockquote::before{content:'❝';position:absolute;top:0;left:50%;transform:translateX(-50%) translateY(-50%);width:4rem;height:30px;display:flex;justify-content:center;background:var(--bg-color);font-size:3rem;font-weight:700;color:#000;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;line-height:1;z-index:2}
+.page-body blockquote::before{content:'“';position:absolute;top:0;left:50%;transform:translateX(-50%) translateY(-50%);width:4rem;height:30px;display:flex;justify-content:center;background:var(--bg-color);font-size:3rem;font-weight:700;color:#000;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;line-height:1;z-index:2}
 .page-body blockquote p{line-height:1.7;margin:2.5rem auto 1.5rem}
 /* 页脚 */
 .footer{background-color:var(--text-color);color:var(--bg-color);padding:60px 0 20px}
