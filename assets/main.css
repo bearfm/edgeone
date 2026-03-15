@@ -19,7 +19,7 @@ a:hover{color:#e6b800}
 .navbar{position:fixed;top:0;left:0;right:0;background-color:rgba(255,255,255,.95);backdrop-filter:blur(10px);border-bottom:3px solid var(--primary-color);z-index:1000;padding:.9rem 0}
 .navbar .container{display:flex;justify-content:space-between;align-items:center}
 .nav-brand{width:52px;height:52px;border:3px solid var(--primary-color);border-radius:50%;animation: border-glow 2s ease-in-out infinite alternate}
-@keyframes border-glow{from{box-shadow:0 0 5px rgba(255,204,0,.2);border-color:var(--primary-color)} to{box-shadow:0 0 10px rgba(255,204,0,.8);border-color:#ffda44}}
+@keyframes border-glow{from{box-shadow:0 0 5px rgba(255,204,0,.2);border-color:var(--primary-color)} to{box-shadow:0 0 20px rgba(255,204,0,.8);border-color:#ffda44}}
 .nav-brand a{display:inline-block;font-size:1.8rem;font-weight:400;font-style:normal;color:var(--text-color);overflow:hidden;white-space:nowrap;position:relative;margin-left:-7px;vertical-align: middle}
 .nav-brand-logo{color:var(--primary-color)}
 .nav-menu{display:flex;gap:2rem}
