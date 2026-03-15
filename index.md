@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "走荡：走出方寸 当入山海"
+title: "彳亍：步履不停，好奇不止。"
 ---
 
 <!-- This file can be used to override the default home page content -->

@@ -1,6 +1,6 @@
 # Site settings
 title: "彳亍"
-description: "走出方寸，荡入山河"
+description: "步履不停，好奇不止。"
 baseurl: ""
 url: "https://chichu.net"
 author: "文刀刘"
@@ -54,7 +54,7 @@ theme_settings:
   
   # Hero section
   hero_title: "探索·旅行·新知"
-  hero_subtitle: "走出方寸 荡入山海"
+  hero_subtitle: "步履不停，好奇不止。"
   hero_image: "https://api.timelessq.com/bing"
   
   # Social links
