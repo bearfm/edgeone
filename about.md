@@ -13,7 +13,7 @@ permalink: /about/
 
 虽然目前能力有限，但是走出去，尽可能的呈现出我的所见所闻所感，尽量看到不一样的风景、人文、历史……尝试着去探索、聆听、感悟，去发现一个独特的视角……这是一场漫长的旅行，这里不仅只是游记，更是一场场与世界的对话。
 
-在这个域名之前，我曾尝试过许多域名和网站名称，但是总觉得欠缺了点什么，直到看到了作家沙漠的那本经典著作《孤独的旅程》。人，都是孤独的行者，在自己的海域里漂泊，与内心的大鱼搏斗。就像戴佩妮在歌曲《一个人的行李》中唱的那样——我要一个人去纽约纯粹看雪景 / 我要一个人去巴黎喝咖啡写信 / 我要一个人的旅行 / 一个人透透气……一个人也可以去向山河湖海，用脚步探寻大地的脉络；一个人也可以去向远方城郭，用文字记录人文的华章。这是一场漫长的旅行，这里不仅只是游记，更是一场场与世界的独处和对话，记录在理想与现实交界处，一个人所见的真相与邂逅。
+在这个域名之前，我曾尝试过许多域名和网站名称，但是总觉得欠缺了点什么，直到遇见了“<span class="logotext">彳亍</span>”这个词——它描绘的是慢步行走、走走停停的姿态，正如我一直在寻找的旅行心境。人，都是孤独的行者，在自己的海域里漂泊，与内心的大鱼搏斗。而孤独并不意味着仓促，我更愿<span class="logotext">彳亍</span>而行，用缓慢的脚步丈量山河湖海，用悠闲的目光捕捉人文细节。去向山河湖海，用脚步探寻大地的脉络；去向远方城郭，用文字记录人文的华章。记录在理想与现实交界处，一个人所见的真相与邂逅。
 
 > 通过以下方式可以找到我<br/><a class="likebutton" href="/wechat.html" style=" font-size: 1.2rem;text-decoration: none;background: #07c160" target="_blank"><i class="fa-brands fa-weixin"></i></a><a class="likebutton" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=5592112&website=5geng.com" style=" font-size: 1.2rem;text-decoration: none;background: #09f" target="_blank"><i class="fa-brands fa-qq"></i></a><a class="likebutton" href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)" style=" font-size: 1.2rem;text-decoration: none;background: #ac8c51"><i class="fa-solid fa-envelope"></i>️</a>
 
