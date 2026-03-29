@@ -15,7 +15,7 @@ permalink: /about/
 
 在这个域名之前，我曾尝试过许多域名和网站名称，但是总觉得欠缺了点什么，直到遇见了“<span class="logotext">彳亍</span>”这个词——它描绘的是慢步行走、走走停停的姿态，正如我一直在寻找的旅行心境。人，都是孤独的行者，在自己的海域里漂泊，与内心的大鱼搏斗。而孤独并不意味着仓促，我更愿<span class="logotext">彳亍</span>而行，用缓慢的脚步丈量山河湖海，用悠闲的目光捕捉人文细节。去向山河湖海，用脚步探寻大地的脉络；去向远方城郭，用文字记录人文的华章。记录在理想与现实交界处，一个人所见的真相与邂逅。
 
-> 通过以下方式可以找到我<br/><a class="likebutton" href="/wechat.html" style=" font-size: 1.2rem;text-decoration: none;background: #07c160" target="_blank"><i class="fa-brands fa-weixin"></i></a><a class="likebutton" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=5592112&website=5geng.com" style=" font-size: 1.2rem;text-decoration: none;background: #09f" target="_blank"><i class="fa-brands fa-qq"></i></a><a class="likebutton" href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)" style=" font-size: 1.2rem;text-decoration: none;background: #ac8c51"><i class="fa-solid fa-envelope"></i>️</a>
+> 通过以下方式可以找到我<br/><a class="likebutton" href="/wechat.html" style=" font-size: 1.2rem;text-decoration: none;background: #07c160" target="_blank"><i class="fa-brands fa-weixin"></i></a><a class="likebutton" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=5592112&website=chichu.net" style=" font-size: 1.2rem;text-decoration: none;background: #09f" target="_blank"><i class="fa-brands fa-qq"></i></a><a class="likebutton" href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)" style=" font-size: 1.2rem;text-decoration: none;background: #ac8c51"><i class="fa-solid fa-envelope"></i>️</a>
 
 行做笔，心当墨。记录山河路上的个人感悟，也解读风景背后的历史奥秘。在自然与人文之间，发现世界。身未动，心已远。期待借助照片的色彩，加上文字的描述，为某一段走出去的旅程留下一点纪念。相信，每一张照片、每一段文字、每一秒时光，以及每一寸土地都有着不同的解读，就像每一张平静的面孔背后，都有一个鲜为人知的故事。
 
