@@ -6,7 +6,7 @@ date: 2025-05-12 10:00:00 +0000
 author: "文刀刘"
 category: travelogue
 tags: [sample]
-featured_image: https://bucket.uicp.cn/blog/2025/05/1097786552.jpg
+featured_image: https://s3.zoudang.com/blog/2025/05/1097786552.jpg
 ---
 
 五一假期，约上几位好友，早上5点半就向着东北出发，目的地是吉林省梅河口市的「知北村」。我们要和从四面八方赶来的游客，一同感受“穿越”到70年代北方村落。
@@ -38,8 +38,8 @@ featured_image: https://bucket.uicp.cn/blog/2025/05/1097786552.jpg
 熙熙攘攘，沉浸在知北村烟火中……
 
 
-  [1]: https://bucket.uicp.cn/blog/2025/05/1097786552.jpg
-  [2]: https://bucket.uicp.cn/blog/2025/05/1038184886.jpg
-  [3]: https://bucket.uicp.cn/blog/2025/05/1647664415.jpeg
-  [4]: https://bucket.uicp.cn/blog/2025/05/1977588511.jpeg
-  [5]: https://bucket.uicp.cn/blog/2025/05/2203098592.jpeg
+  [1]: https://s3.zoudang.com/blog/2025/05/1097786552.jpg
+  [2]: https://s3.zoudang.com/blog/2025/05/1038184886.jpg
+  [3]: https://s3.zoudang.com/blog/2025/05/1647664415.jpeg
+  [4]: https://s3.zoudang.com/blog/2025/05/1977588511.jpeg
+  [5]: https://s3.zoudang.com/blog/2025/05/2203098592.jpeg

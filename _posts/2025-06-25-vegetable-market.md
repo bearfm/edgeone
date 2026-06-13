@@ -6,7 +6,7 @@ date: 2025-06-25 10:00:00 +0000
 author: "文刀刘"
 category: travelogue
 tags: [sample]
-featured_image: https://bucket.uicp.cn/blog/2025/06/2756326418.jpg
+featured_image: https://s3.zoudang.com/blog/2025/06/2756326418.jpg
 ---
 
 一座城市的灵魂在哪里？答案可能是名山大川自然奇景，也可能是高楼林立的人类建筑，甚至也有人会说是灯红酒绿的闲情雅致。这些都没错，但这些都是浮于表面的游客印象。真正生活在那座城市里的人们可能会说，城市的灵魂是独有的市井气息。那么市井气在哪里？菜市场可能是一个非常绝佳的选择。
@@ -75,22 +75,22 @@ featured_image: https://bucket.uicp.cn/blog/2025/06/2756326418.jpg
 在琅西夜市，从不只是美食的战场。孩童举着棉花糖追逐嬉戏，情侣在灯火阑珊处低语呢喃。在这里有最真实的人间烟火，也有最动人的生活剪影。琅西夜市，用它独有的方式讲述着关于南宁这座城市的生活、美食和故事。
 
 
-  [1]: https://bucket.uicp.cn/blog/2025/06/2564190102.jpg
-  [2]: https://bucket.uicp.cn/blog/2025/06/3412927983.jpeg
-  [3]: https://bucket.uicp.cn/blog/2025/06/4030660464.jpg
-  [4]: https://bucket.uicp.cn/blog/2025/06/2385486032.jpeg
-  [5]: https://bucket.uicp.cn/blog/2025/06/3922438696.jpg
-  [6]: https://bucket.uicp.cn/blog/2025/06/1091070043.jpg
-  [7]: https://bucket.uicp.cn/blog/2025/06/2380306869.jpg
-  [8]: https://bucket.uicp.cn/blog/2025/06/3115420701.jpg
-  [9]: https://bucket.uicp.cn/blog/2025/06/2370436905.jpg
-  [10]: https://bucket.uicp.cn/blog/2025/06/1992321637.jpeg
-  [11]: https://bucket.uicp.cn/blog/2025/06/555784116.jpeg
-  [12]: https://bucket.uicp.cn/blog/2025/06/3029535666.jpeg
-  [13]: https://bucket.uicp.cn/blog/2025/06/3292993610.jpeg
-  [14]: https://bucket.uicp.cn/blog/2025/06/2756326418.jpg
-  [15]: https://bucket.uicp.cn/blog/2025/06/239481953.jpg
-  [16]: https://bucket.uicp.cn/blog/2025/06/4129918999.jpg
-  [17]: https://bucket.uicp.cn/blog/2025/06/2315561085.jpg
-  [18]: https://bucket.uicp.cn/blog/2025/06/1990829490.jpg
-  [19]: https://bucket.uicp.cn/blog/2025/06/4168224503.jpg
+  [1]: https://s3.zoudang.com/blog/2025/06/2564190102.jpg
+  [2]: https://s3.zoudang.com/blog/2025/06/3412927983.jpeg
+  [3]: https://s3.zoudang.com/blog/2025/06/4030660464.jpg
+  [4]: https://s3.zoudang.com/blog/2025/06/2385486032.jpeg
+  [5]: https://s3.zoudang.com/blog/2025/06/3922438696.jpg
+  [6]: https://s3.zoudang.com/blog/2025/06/1091070043.jpg
+  [7]: https://s3.zoudang.com/blog/2025/06/2380306869.jpg
+  [8]: https://s3.zoudang.com/blog/2025/06/3115420701.jpg
+  [9]: https://s3.zoudang.com/blog/2025/06/2370436905.jpg
+  [10]: https://s3.zoudang.com/blog/2025/06/1992321637.jpeg
+  [11]: https://s3.zoudang.com/blog/2025/06/555784116.jpeg
+  [12]: https://s3.zoudang.com/blog/2025/06/3029535666.jpeg
+  [13]: https://s3.zoudang.com/blog/2025/06/3292993610.jpeg
+  [14]: https://s3.zoudang.com/blog/2025/06/2756326418.jpg
+  [15]: https://s3.zoudang.com/blog/2025/06/239481953.jpg
+  [16]: https://s3.zoudang.com/blog/2025/06/4129918999.jpg
+  [17]: https://s3.zoudang.com/blog/2025/06/2315561085.jpg
+  [18]: https://s3.zoudang.com/blog/2025/06/1990829490.jpg
+  [19]: https://s3.zoudang.com/blog/2025/06/4168224503.jpg

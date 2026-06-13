@@ -6,7 +6,7 @@ date: 2025-10-03 10:00:00 +0000
 author: "文刀刘"
 category: notepad
 tags: [sample]
-featured_image: https://bucket.uicp.cn/blog/2025/neimenggu/banner.jpeg
+featured_image: https://s3.zoudang.com/blog/2025/neimenggu/banner.jpeg
 ---
 
 如果不是十一将旅游的目的地临时改为呼和浩特，我可能不会发这篇文章。如果不是选择了乘坐公共交通出行，我可能不会有这个选题。因为我真的被内蒙古自治区的地名搞懵了。
@@ -91,16 +91,16 @@ featured_image: https://bucket.uicp.cn/blog/2025/neimenggu/banner.jpeg
 所以，下次如果你踏上内蒙古这片辽阔的土地，听到“前旗”“后旗”的对话，或是看到路牌上交替出现的官方名和驻地名，可千万别慌。内蒙古“混乱”的地名，其实是这片深厚历史的一把有趣的钥匙。当然，为了稳妥起见，更多的时候咱还是乖乖听导航的话，或者上车前多问一嘴：“师傅，咱这车是到那个‘达茂’，不是‘达旗’吧？”
 
 
-  [1]: https://bucket.uicp.cn/blog/2025/neimenggu/01.jpg
-  [2]: https://bucket.uicp.cn/blog/2025/neimenggu/02.jpg
-  [3]: https://bucket.uicp.cn/blog/2025/neimenggu/03.jpeg
-  [4]: https://bucket.uicp.cn/blog/2025/neimenggu/04.png
-  [5]: https://bucket.uicp.cn/blog/2025/neimenggu/05.jpeg
-  [6]: https://bucket.uicp.cn/blog/2025/neimenggu/06.jpeg
-  [7]: https://bucket.uicp.cn/blog/2025/neimenggu/07.jpeg
-  [8]: https://bucket.uicp.cn/blog/2025/neimenggu/08.jpeg
-  [9]: https://bucket.uicp.cn/blog/2025/neimenggu/09.jpeg
-  [10]: https://bucket.uicp.cn/blog/2025/neimenggu/10.jpg
-  [11]: https://bucket.uicp.cn/blog/2025/neimenggu/11.webp
-  [12]: https://bucket.uicp.cn/blog/2025/neimenggu/12.jpg
-  [13]: https://bucket.uicp.cn/blog/2025/neimenggu/13.jpeg
+  [1]: https://s3.zoudang.com/blog/2025/neimenggu/01.jpg
+  [2]: https://s3.zoudang.com/blog/2025/neimenggu/02.jpg
+  [3]: https://s3.zoudang.com/blog/2025/neimenggu/03.jpeg
+  [4]: https://s3.zoudang.com/blog/2025/neimenggu/04.png
+  [5]: https://s3.zoudang.com/blog/2025/neimenggu/05.jpeg
+  [6]: https://s3.zoudang.com/blog/2025/neimenggu/06.jpeg
+  [7]: https://s3.zoudang.com/blog/2025/neimenggu/07.jpeg
+  [8]: https://s3.zoudang.com/blog/2025/neimenggu/08.jpeg
+  [9]: https://s3.zoudang.com/blog/2025/neimenggu/09.jpeg
+  [10]: https://s3.zoudang.com/blog/2025/neimenggu/10.jpg
+  [11]: https://s3.zoudang.com/blog/2025/neimenggu/11.webp
+  [12]: https://s3.zoudang.com/blog/2025/neimenggu/12.jpg
+  [13]: https://s3.zoudang.com/blog/2025/neimenggu/13.jpeg

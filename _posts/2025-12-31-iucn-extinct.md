@@ -6,7 +6,7 @@ date: 2025-12-31 00:10:40 +0000
 author: "文刀刘"
 category: explore
 tags: [sample]
-featured_image: https://bucket.uicp.cn/blog/2025/iucn/banner.jpg
+featured_image: https://s3.zoudang.com/blog/2025/iucn/banner.jpg
 ---
 
 2025年的年末，世界自然保护联盟（IUCN）更新了最新一版《濒危物种红色名录》。在密密麻麻的分类与注释中，有几行文字显得格外沉重——几种物种被从“极度濒危（Critically Endangered）”正式划入了“灭绝（Extinct）”。
@@ -110,9 +110,9 @@ featured_image: https://bucket.uicp.cn/blog/2025/iucn/banner.jpg
 保护，永远只在“还来得及”的时候才有意义。而2025年的这份名单，正是自然留给人类的一次沉默警告。
 
 
- [1]: https://bucket.uicp.cn/blog/2025/iucn/01.jpg
- [2]: https://bucket.uicp.cn/blog/2025/iucn/02.jpg
- [3]: https://bucket.uicp.cn/blog/2025/iucn/03.jpg
- [4]: https://bucket.uicp.cn/blog/2025/iucn/04.jpg
- [5]: https://bucket.uicp.cn/blog/2025/iucn/05.jpg
- [6]: https://bucket.uicp.cn/blog/2025/iucn/06.jpg
+ [1]: https://s3.zoudang.com/blog/2025/iucn/01.jpg
+ [2]: https://s3.zoudang.com/blog/2025/iucn/02.jpg
+ [3]: https://s3.zoudang.com/blog/2025/iucn/03.jpg
+ [4]: https://s3.zoudang.com/blog/2025/iucn/04.jpg
+ [5]: https://s3.zoudang.com/blog/2025/iucn/05.jpg
+ [6]: https://s3.zoudang.com/blog/2025/iucn/06.jpg

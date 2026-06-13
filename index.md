@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "逛(guang.info)：步履不停，好奇不止。"
+title: "逛：跟我一起探索世界。"
 ---
 
 <!-- This file can be used to override the default home page content -->

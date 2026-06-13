@@ -1,10 +1,10 @@
 # Site settings
 title: "逛"
-description: "步履不停，好奇不止。"
+description: "跟我一起探索世界。"
 baseurl: ""
 url: "https://guang.info"
 author: "文刀刘"
-email: "chichu@mail.io"
+email: "guang@foxmail.com"
 
 # Build settings
 markdown: kramdown
@@ -54,7 +54,7 @@ theme_settings:
   
   # Hero section
   hero_title: "探索·旅行·新知"
-  hero_subtitle: "步履不停，好奇不止。"
+  hero_subtitle: "跟我一起探索世界。"
   hero_image: "https://api.timelessq.com/bing"
   
   # Social links

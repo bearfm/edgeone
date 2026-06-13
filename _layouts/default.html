@@ -8,20 +8,20 @@
     <title>{{ page.title | default: site.title | escape }}{% unless page.url == '/' or page.url == '/index.html' %} - {{ site.title | escape }}{% endunless %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
-    <link rel="preconnect" href="https://bucket.uicp.cn">
+    <link rel="preconnect" href="https://s3.zoudang.com">
     <link rel="preconnect" href="https://s4.zstatic.net">
     <link rel="preconnect" href="https://fonts.googleapis.cn">
     <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.cn/css2?family=LXGW+WenKai+Mono+TC&family=Noto+Serif+SC:wght@200..900&display=swap">
     <link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <link rel="icon" type="image/png" href="https://bucket.uicp.cn/files/ccc/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="https://bucket.uicp.cn/files/ccc/favicon.svg" />
-    <link rel="shortcut icon" href="https://bucket.uicp.cn/files/ccc/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="https://bucket.uicp.cn/files/ccc/apple-touch-icon.png" />
-    <link rel="manifest" href="https://bucket.uicp.cn/files/ccc/site.webmanifest" />
+    <link rel="icon" type="image/png" href="https://s3.zoudang.com/blog/guang/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="https://s3.zoudang.com/blog/guang/favicon.svg" />
+    <link rel="shortcut icon" href="https://s3.zoudang.com/blog/guang/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://s3.zoudang.com/blog/guang/apple-touch-icon.png" />
+    <link rel="manifest" href="https://s3.zoudang.com/blog/guang/site.webmanifest" />
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
-    <link rel="manifest" href="https://bucket.uicp.cn/files/ccc/site.webmanifest" />
+    <link rel="manifest" href="https://s3.zoudang.com/blog/guang/site.webmanifest" />
     {% feed_meta %}
 </head>
 <body>

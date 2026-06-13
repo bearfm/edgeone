@@ -5,7 +5,7 @@ subtitle: "这是一部关于行走、发现与汲取的个人志"
 permalink: /about/
 ---
 
-![about](https://bucket.uicp.cn/files/about.png)
+![about](https://s3.zoudang.com/files/about.png)
 
 > 有一天，我想要把中国看遍<br/>有一天，我想要把世界看遍
 
@@ -13,11 +13,11 @@ permalink: /about/
 
 虽然目前能力有限，但是走出去，尽可能的呈现出我的所见所闻所感，尽量看到不一样的风景、人文、历史……尝试着去探索、聆听、感悟，去发现一个独特的视角……这是一场漫长的旅行，这里不仅只是游记，更是一场场与世界的对话。
 
-在这个域名之前，我曾尝试过许多域名和网站名称，但是总觉得欠缺了点什么，直到遇见了“<span class="logotext">彳亍</span>”这个词——它描绘的是慢步行走、走走停停的姿态，正如我一直在寻找的旅行心境。人，都是孤独的行者，在自己的海域里漂泊，与内心的大鱼搏斗。而孤独并不意味着仓促，我更愿<span class="logotext">彳亍</span>而行，用缓慢的脚步丈量山河湖海，用悠闲的目光捕捉人文细节。去向山河湖海，用脚步探寻大地的脉络；去向远方城郭，用文字记录人文的华章。记录在理想与现实交界处，一个人所见的真相与邂逅。
+在这个域名之前，我曾尝试过许多域名和网站名称，但是总觉得欠缺了点什么，直到遇见了“<span class="logotext">逛</span>”这个字——它描绘的是随心漫步、且行且停的姿态，正如我一直在寻找的旅行心境。人，都是孤独的行者，在自己的海域里漂泊，与内心的大鱼搏斗。而孤独并不意味着仓促，我更愿且行且<span class="logotext">逛</span>，用脚步丈量山河湖海，用目光捕捉人文世界。去向未知的远方，探寻大地的脉络；俯瞰身边的视界，记录人文的华章。在理想与现实交界处，悄悄写下一个人所见的真相与邂逅。
 
 > 通过以下方式可以找到我<br/><a class="likebutton" href="/wechat.html" style=" font-size: 1.2rem;text-decoration: none;background: #07c160" target="_blank"><i class="fa-brands fa-weixin"></i></a><a class="likebutton" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=5592112&website=chichu.net" style=" font-size: 1.2rem;text-decoration: none;background: #09f" target="_blank"><i class="fa-brands fa-qq"></i></a><a class="likebutton" href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)" style=" font-size: 1.2rem;text-decoration: none;background: #ac8c51"><i class="fa-solid fa-envelope"></i>️</a>
 
-行做笔，心当墨。记录山河路上的个人感悟，也解读风景背后的历史奥秘。在自然与人文之间，发现世界。身未动，心已远。期待借助照片的色彩，加上文字的描述，为某一段走出去的旅程留下一点纪念。相信，每一张照片、每一段文字、每一秒时光，以及每一寸土地都有着不同的解读，就像每一张平静的面孔背后，都有一个鲜为人知的故事。
+行做笔，心当墨。记录跋山涉水的个人感悟；路为纸，地成册，解读风景背后的时光沉淀。在自然与人文之间，发现世界。身未动，心已远。期待借助照片的色彩，加上文字的描述，为某一段走出去的旅程留下一点纪念。相信，每一张照片、每一段文字、每一秒时光，以及每一寸土地都有着不同的解读，就像每一张平静的面孔背后，都有一个鲜为人知的故事。
 
 <div id="my-footprints-map" style="width: 100%; height: 400px;"></div>
 

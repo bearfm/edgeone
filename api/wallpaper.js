@@ -17,6 +17,6 @@ export default async function handler(req, res) {
     return res.redirect(302, imageUrl);
   } catch (err) {
     console.error(err);
-    return res.redirect(302, "https://bucket.uicp.cn/blog/wallpaper/202543.jpg");
+    return res.redirect(302, "https://s3.zoudang.com/blog/wallpaper/202543.jpg");
   }
 }
