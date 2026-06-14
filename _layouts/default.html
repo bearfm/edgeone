@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
-    <title>{{ page.title | default: site.title | escape }}{% unless page.url == '/' or page.url == '/index.html' %} - {{ site.title | escape }}{% endunless %}</title>
+    <title>{{ page.title | default: site.title（guang.info） | escape }}{% unless page.url == '/' or page.url == '/index.html' %} - {{ site.title | escape }}{% endunless %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
     <link rel="preconnect" href="https://s3.zoudang.com">
@@ -90,13 +90,13 @@
                             </a>
                         {% endif %}
                             <a href="javascript:void(0)" title="点击复制邮箱地址" onclick="copyEmail(this)">
-                                <i class="fa-solid fa-envelope"></i> chi<span style="display:none">@</span>chu@mai<span style="display:none">@</span>l.io
+                                <i class="fa-solid fa-envelope"></i> guang<span style="display:none">@</span>gggg@foxma<span style="display:none">@</span>il.com
                             </a>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; {{ 'now' | date: '%Y' }}  <a href="{{ '/' | relative_url }}"><span class="logotext">{{ site.title }}</span>guang.info</a>. All rights reserved.<a href="{{ '/feed.xml' | relative_url }}" title="RSS"><i class="fa-solid fa-square-rss"></i></a>
+                <p>&copy; {{ 'now' | date: '%Y' }}  <a href="{{ '/' | relative_url }}"><span class="logotext">{{ site.title }}</span> guang.info</a>. All rights reserved.<a href="{{ '/feed.xml' | relative_url }}" title="RSS"><i class="fa-solid fa-square-rss"></i></a>
                 <br /><a href="https://beian.miit.gov.cn/" target="_blank" style="font-size:8px;color:#777">辽ICP备19011155号-15</a></p>
             </div>
         </div>

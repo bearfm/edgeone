@@ -1,10 +1,10 @@
 # Site settings
 title: "逛"
-description: "跟我一起探索世界。"
+description: "跟我一起探索世界"
 baseurl: ""
 url: "https://guang.info"
 author: "文刀刘"
-email: "guang@foxmail.com"
+email: "guanggggg@foxmail.com"
 
 # Build settings
 markdown: kramdown
