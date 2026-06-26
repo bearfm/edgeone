@@ -1,10 +1,10 @@
 # Site settings
-title: "逛"
+title: "博览五湖四海"
 description: "跟我一起探索世界"
 baseurl: ""
-url: "https://guang.info"
+url: "https://5hu4hai.com"
 author: "文刀刘"
-email: "guanggggg@foxmail.com"
+email: "5hu4hai@gmail.do"
 
 # Build settings
 markdown: kramdown
