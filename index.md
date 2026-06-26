@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "探索大千世界 / 博览"
+home: true
 ---
 
 <!-- This file can be used to override the default home page content -->
