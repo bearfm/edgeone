@@ -18,9 +18,8 @@ a:hover{color:#e6b800}
 /* 导航栏 */
 .navbar{position:fixed;top:0;left:0;right:0;background-color:rgba(255,255,255,.95);backdrop-filter:blur(10px);border-bottom:3px solid var(--primary-color);z-index:1000;padding:.9rem 0}
 .navbar .container{display:flex;justify-content:space-between;align-items:center}
-.nav-brand{width:52px;height:52px;text-align:center;background-color:var(--primary-color);border:3px solid var(--primary-color);border-radius:10%}
-@keyframes border-glow{from{box-shadow:0 0 5px rgba(255,204,0,.2);border-color:var(--primary-color)} to{box-shadow:0 0 20px rgba(255,204,0,.8);border-color:#ffda44}}
-.nav-brand a{display:inline-block;font-size:1.8rem;font-weight:400;font-style:normal;color:var(--text-color);overflow:hidden;white-space:nowrap;position:relative;vertical-align: middle}
+.nav-brand{width:46px;height:46px;text-align:center;background-color:var(--primary-color);border-radius:20%}
+.nav-brand a{display:inline-block;font-size:1.8rem;font-weight:400;font-style:normal;color:var(--text-color);padding-left:5px;overflow:hidden;white-space:nowrap;position:relative;vertical-align: middle}
 .nav-brand-logo{color:var(--primary-color)}
 .nav-menu{display:flex;gap:2rem}
 .nav-menu a{color:var(--text-color);font-weight:600;transition:color .3s ease}
